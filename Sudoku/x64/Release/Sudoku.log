@@ -1,0 +1,13 @@
+﻿  Cell.cpp
+  main.cpp
+  Sodoku.cpp
+Sodoku.cpp(8): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+Sodoku.cpp(22): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  SudokuCell.cpp
+  Generating code
+  214 of 216 functions (99.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sudoku.vcxproj -> C:\Users\Just_Zack\Desktop\VS\Sudoku\x64\Release\Sudoku Solver.exe
+  Sudoku.vcxproj -> C:\Users\Just_Zack\Desktop\VS\Sudoku\x64\Release\Sudoku Solver.pdb (Full PDB)

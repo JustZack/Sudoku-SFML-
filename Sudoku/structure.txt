@@ -1,0 +1,12 @@
+Cell
+	Fields
+	-Stores its own value
+	-Stores the values it cannot be
+	-stores the values it could be
+	&Should cells be aware of their location?
+
+	Methods
+	-Add a value the cell could be
+	-Returns the cells value
+	-Returns if the cell is set (value > 0 && value < 10)
+	&Should cells be immutable?
